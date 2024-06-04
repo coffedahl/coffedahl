@@ -2,6 +2,10 @@
 Im an selftaught `selfhoster` with an janky homelab situation! 
 Here on my github you can find some of my selfbuilt projects. 
 
+## Currently working on 
+- [Webstore](https://github.com/coffedahl/webbapp-nextjs)
+
+
 ### My skills
 Im selftought in most of what i do so my skills are not perfect but have some expirince in:
 - Programming
