@@ -18,7 +18,7 @@ Im selftought in most of what i do so my skills are not perfect but have some ex
   - `linux`
   - `networking`
 
-🌱 I’m currently learning `nextjs` & `react` and to document the stuff im doing 🙈
+🌱 I’m currently learning more about `networking` & `firewalls` and to document the stuff im doing 🙈
 
 <!--
 **coffedahl/coffedahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
